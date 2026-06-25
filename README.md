@@ -10,8 +10,8 @@ A clean and responsive **Results Summary Component** built with **HTML5** and **
 
 ## 🚀 Live Demo
 
-- Live Site: 
-- Frontend Mentor Solution: 
+- Live Site: https://charansomisetti144-eng.github.io/result-summary/
+- Frontend Mentor Solution: https://github.com/charansomisetti144-eng/result-summary.git
 
 ---
 
